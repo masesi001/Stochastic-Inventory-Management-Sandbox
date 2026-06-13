@@ -1,0 +1,14 @@
+{
+  "product_id": 1,
+  "product_name": "Maize Flour 2kg",
+  "unit_cost": 120.0,
+  "price": 160.0,
+  "ordering_cost": 500.0,
+  "holding_cost": 12.0,
+  "daily_demand_lambda": 25.0,
+  "lead_time_mean": 7.0,
+  "lead_time_std": 1.5,
+  "service_z": 1.65,
+  "horizon_days": 365,
+  "seed": 42
+}

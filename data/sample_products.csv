@@ -1,0 +1,6 @@
+product_id,name,unit_cost,price,ordering_cost,holding_cost,daily_demand_lambda,lead_time_mean,lead_time_std
+1,Maize Flour 2kg,120,160,500,12,25,7,1.5
+2,Cooking Oil 1L,260,310,650,28,18,9,2.0
+3,Bar Soap 800g,90,130,300,8,40,5,1.0
+4,Sugar 2kg,210,255,550,22,22,8,2.5
+5,Tea Leaves 500g,340,420,700,30,12,10,3.0
